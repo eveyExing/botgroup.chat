@@ -1,9 +1,9 @@
 [[kv_namespaces]]
 binding = "bgkv"
-id = "cbd11575c3504e6bb043c1c250d2f7ed"
-preview_id = "cbd11575c3504e6bb043c1c250d2f7ed"  # 本地开发环境使用 
+id = "337cdc358024470586578030c56c6f62"
+preview_id = "337cdc358024470586578030c56c6f62"  # 本地开发环境使用 
 
 [[d1_databases]]
 binding = "bgdb" # available in your Worker on env.DB
 database_name = "friends"
-database_id = "f68e9fa5-4aea-45db-9516-2d7052e936fa"
+database_id = "f716b3fb-560d-476e-952e-7b5b6c5a3237"
